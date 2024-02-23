@@ -1,3 +1,3 @@
 # pashaetesam-Vacccination-Scheduling-App
 
-This is Django project.
+This is Django project.pythop
